@@ -1,4 +1,4 @@
-WSAPProperties
+WSAProperties
 ===============
 
 Introduction
